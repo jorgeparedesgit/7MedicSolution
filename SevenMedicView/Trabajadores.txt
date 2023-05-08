@@ -1,0 +1,5 @@
+72880482E;12345;Eliezer Hugo;Vargas Maluquís;kyriaya@gmail.com;950430976;M;14/07/1997;25;72880482;Enfermero
+72880482A;12345;Eliezer Hugo;Vargas Maluquís;kyriaya@gmail.com;950430976;M;14/07/1997;25;72880482;Almacen
+72880482M;12345;Eliezer Hugo;Vargas Maluquís;kyriaya@gmail.com;950430976;M;14/07/1997;25;72880482;Medico
+87654321M;12345;Katherine Daniela;Córdova Rivero;a20202020@pucp.edu.pe;987654321;F;14/10/2000;22;87654321;Medico
+12345678E;Hachi1234;Hachi;Vargas;hachi@gmail.com;999888777;M;14/02/2013;10;12345678;Enfermero

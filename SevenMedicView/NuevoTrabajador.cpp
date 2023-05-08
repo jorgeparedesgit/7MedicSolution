@@ -1,0 +1,2 @@
+#include "NuevoTrabajador.h"
+

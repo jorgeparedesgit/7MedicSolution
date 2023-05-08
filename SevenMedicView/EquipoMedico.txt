@@ -1,0 +1,8 @@
+1;Paracetamol;4;14/12/2023;False
+2;Ibuprofeno;10;12/01/2023;True
+3;Paracetamol;11;14/12/2022;True
+4;Clorfenamina;12;8/11/2023;False
+5;Simeticona;15;21/12/2023;False
+6;Gasa;12;26/05/2023;False
+7;Solucion Salina;15;13/10/2023;False
+8;Diazepam;22;31/05/2024;False
